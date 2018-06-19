@@ -1,7 +1,8 @@
 {
-  "name": "new",
+  "name": "crypto-market-comparator",
   "version": "1.0.0",
-  "description": "",
+  "description":
+    "This is a simple cryptocurrency market comparator app built using React.",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
